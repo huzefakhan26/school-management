@@ -102,6 +102,3 @@ A PHP + MySQL web application for managing school student records: online self-r
 
 ---
 
-## 📄 License
-
-This project is provided as-is for educational purposes. Feel free to fork and adapt it for your own learning.
